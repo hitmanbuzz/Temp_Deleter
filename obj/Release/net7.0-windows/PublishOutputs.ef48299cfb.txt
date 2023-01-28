@@ -1,0 +1,5 @@
+C:\Users\Henthoiba\Desktop\C#_Temp\Temporary_Files.exe
+C:\Users\Henthoiba\Desktop\C#_Temp\Temporary_Files.dll
+C:\Users\Henthoiba\Desktop\C#_Temp\Temporary_Files.deps.json
+C:\Users\Henthoiba\Desktop\C#_Temp\Temporary_Files.runtimeconfig.json
+C:\Users\Henthoiba\Desktop\C#_Temp\Temporary_Files.pdb

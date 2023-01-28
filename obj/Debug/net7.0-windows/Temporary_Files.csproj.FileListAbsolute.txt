@@ -1,0 +1,17 @@
+E:\C#\Temporary_Files\bin\Debug\net7.0-windows\Temporary_Files.exe
+E:\C#\Temporary_Files\bin\Debug\net7.0-windows\Temporary_Files.deps.json
+E:\C#\Temporary_Files\bin\Debug\net7.0-windows\Temporary_Files.runtimeconfig.json
+E:\C#\Temporary_Files\bin\Debug\net7.0-windows\Temporary_Files.dll
+E:\C#\Temporary_Files\bin\Debug\net7.0-windows\Temporary_Files.pdb
+E:\C#\Temporary_Files\obj\Debug\net7.0-windows\Temporary_Files.csproj.AssemblyReference.cache
+E:\C#\Temporary_Files\obj\Debug\net7.0-windows\Temporary_Files.Form1.resources
+E:\C#\Temporary_Files\obj\Debug\net7.0-windows\Temporary_Files.csproj.GenerateResource.cache
+E:\C#\Temporary_Files\obj\Debug\net7.0-windows\Temporary_Files.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Temporary_Files\obj\Debug\net7.0-windows\Temporary_Files.AssemblyInfoInputs.cache
+E:\C#\Temporary_Files\obj\Debug\net7.0-windows\Temporary_Files.AssemblyInfo.cs
+E:\C#\Temporary_Files\obj\Debug\net7.0-windows\Temporary_Files.csproj.CoreCompileInputs.cache
+E:\C#\Temporary_Files\obj\Debug\net7.0-windows\Temporary_Files.dll
+E:\C#\Temporary_Files\obj\Debug\net7.0-windows\refint\Temporary_Files.dll
+E:\C#\Temporary_Files\obj\Debug\net7.0-windows\Temporary_Files.pdb
+E:\C#\Temporary_Files\obj\Debug\net7.0-windows\Temporary_Files.genruntimeconfig.cache
+E:\C#\Temporary_Files\obj\Debug\net7.0-windows\ref\Temporary_Files.dll
